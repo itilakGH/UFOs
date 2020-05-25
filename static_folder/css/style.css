@@ -2,6 +2,11 @@ body {
     background-color: #292b2c;
     color: #f7f7f7;
 }
+input {
+    display: inline-block;
+    float: right;
+}
+
 
   .jumbotron {
     background-image: url("../images/nasa.jpg");
